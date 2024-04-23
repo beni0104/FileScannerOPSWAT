@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ct15a79Hpl5RQMw9r3uDEXk+KPnBdkPZi9JKYh97Xe2FNEzCIdb6gQgY//T+usFpKPmeLe/RSNDAWSRtc9+4jA==",
+  "success": true,
+  "projectFilePath": "D:\\Proiect OPSWAT\\FileScannerOPSWAT\\FileScannerOPSWAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szekr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

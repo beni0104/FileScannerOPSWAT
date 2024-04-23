@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proiect OPSWAT\\FileScannerOPSWAT\\FileScannerOPSWAT.csproj": {}
+  },
+  "projects": {
+    "D:\\Proiect OPSWAT\\FileScannerOPSWAT\\FileScannerOPSWAT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proiect OPSWAT\\FileScannerOPSWAT\\FileScannerOPSWAT.csproj",
+        "projectName": "FileScannerOPSWAT",
+        "projectPath": "D:\\Proiect OPSWAT\\FileScannerOPSWAT\\FileScannerOPSWAT.csproj",
+        "packagesPath": "C:\\Users\\szekr\\.nuget\\packages\\",
+        "outputPath": "D:\\Proiect OPSWAT\\FileScannerOPSWAT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szekr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\szekr\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Proiect OPSWAT\FileScannerOPSWAT\bin\Debug\net8.0\FileScannerOPSWAT.exe
+D:\Proiect OPSWAT\FileScannerOPSWAT\bin\Debug\net8.0\FileScannerOPSWAT.deps.json
+D:\Proiect OPSWAT\FileScannerOPSWAT\bin\Debug\net8.0\FileScannerOPSWAT.runtimeconfig.json
+D:\Proiect OPSWAT\FileScannerOPSWAT\bin\Debug\net8.0\FileScannerOPSWAT.dll
+D:\Proiect OPSWAT\FileScannerOPSWAT\bin\Debug\net8.0\FileScannerOPSWAT.pdb
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.AssemblyInfoInputs.cache
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.AssemblyInfo.cs
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.csproj.CoreCompileInputs.cache
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.dll
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\refint\FileScannerOPSWAT.dll
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.pdb
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.genruntimeconfig.cache
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\ref\FileScannerOPSWAT.dll
+D:\Proiect OPSWAT\FileScannerOPSWAT\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScannerOPSWAT.csproj.AssemblyReference.cache
+D:\Proiect OPSWAT\FileScannerOPSWAT\obj\Debug\net8.0\FileScan.A359F262.Up2Date
